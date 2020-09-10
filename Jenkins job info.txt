@@ -1,0 +1,6 @@
+https://jenkins01.financialservices.int.tds.tieto.com/job/Smoke-Test-147-VAM2.1.9-test/lastCompletedBuild/api/json
+
+
+Try http://$host/job/$jobname/lastSuccessfulBuild/api/json
+
+Jenkins (and Hudson) expose multiple different builds, such as lastBuild, lastStableBuild, lastSuccessfulBuild, lastFailedBuild, lastUnstableBuild, lastUnsuccessfulBuild, lastCompletedBuild.
